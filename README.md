@@ -1,4 +1,4 @@
-# Analytics Dashboard UI Concept by AR Shakir . https://dribbble.com/shots/17473449-Analytics-Dashboard-UI-Concept
+# Analytics Dashboard UI Concept by AR Shakir Replica. https://dribbble.com/shots/17473449-Analytics-Dashboard-UI-Concept
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
 
